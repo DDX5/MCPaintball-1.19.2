@@ -1,0 +1,30 @@
+{
+  "Comment": "Items",
+  "item.mcpaintball.weapon.pistol.red_pistol": "Red Team Pistol",
+  "item.mcpaintball.weapon.pistol.blue_pistol": "Blue Team Pistol",
+  "item.mcpaintball.weapon.pistol.green_pistol": "Green Team Pistol",
+
+  "item.mcpaintball.weapon.shotgun.green_shotgun": "Green Team Shotgun",
+  "item.mcpaintball.weapon.shotgun.blue_shotgun": "Blue Team Shotgun",
+  "item.mcpaintball.weapon.shotgun.red_shotgun": "Red Team Shotgun",
+
+  "item.mcpaintball.weapon.rifle.green_rifle": "Green Team Rifle",
+  "item.mcpaintball.weapon.rifle.blue_rifle": "Blue Team Rifle",
+  "item.mcpaintball.weapon.rifle.red_rifle": "Red Team Rifle",
+
+  "Comment": "Entities",
+  "entity.mcpaintball.red_paintball": "Red Paintball",
+  "entity.mcpaintball.blue_paintball": "Blue Paintball",
+  "entity.mcpaintball.green_paintball": "Green Paintball",
+
+  "Comment": "Blocks",
+
+
+  "Comment": "CreativeTabs",
+
+
+  "Comment": "Subtitles",
+  "subtitle.mcpaintball.single": "Paintball Fired",
+  "subtitle.mcpaintball.ding": "Shot Hit",
+  "subtitle.mcpaintball.splat": "Paintball Splat"
+}
